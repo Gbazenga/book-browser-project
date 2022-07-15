@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/book-browser-project/static/css/main.23956cda.css",
+    "main.js": "/book-browser-project/static/js/main.d6d773cc.js",
+    "static/media/header-bg.jpg": "/book-browser-project/static/media/header-bg.ebd3873097bc4184deb0.jpg",
+    "index.html": "/book-browser-project/index.html",
+    "main.23956cda.css.map": "/book-browser-project/static/css/main.23956cda.css.map",
+    "main.d6d773cc.js.map": "/book-browser-project/static/js/main.d6d773cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23956cda.css",
+    "static/js/main.d6d773cc.js"
+  ]
+}
